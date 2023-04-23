@@ -1,4 +1,4 @@
-
+//the computer sees this code, it knows what kind of code it is and where to find more information it needs.
 {
   "_format": "hh-sol-dbg-1",
   "buildInfo": "../../build-info/bf373863557a147c395ed3ef5b89bced.json"
